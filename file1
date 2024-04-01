@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I added edit using dev1
 this is test file in the github.
 Added feature 1 from dev 1
+=======
+this is test file in the github
+
+update feature 2 by the dev 1.
+>>>>>>> dev2
